@@ -1,8 +1,8 @@
-# Hailee portfolio webpage
+# Kevin portfolio webpage
 
 A portfolio web site completely made in html css and js from ground up.
 
-#### Watch it live here - [hailee.netlify.app](https://hailee.netlify.app/)
+#### Watch it live here - [zestium11.github.io](https://zestium11.github.io/)
 
 <br>
 
@@ -12,8 +12,8 @@ A portfolio web site completely made in html css and js from ground up.
 
 ### In dark mode
 
-![In dark mode](./preview/hailee-dark.png)
+![In dark mode](./preview/kevin-dark.png)
 
 ### In light mode
 
-![In light mode](./preview/hailee-light.png)
+![In light mode](./preview/kevin-light.png)
